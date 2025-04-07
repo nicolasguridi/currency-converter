@@ -1,0 +1,28 @@
+# Ruby specific
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/tmp
+.byebug_history
+.rspec_status
+
+# Environment
+.env
+.env.*
+
+# IDE specific
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Ruby LSP
+.ruby-lsp/
+
+# Logs
+*.log

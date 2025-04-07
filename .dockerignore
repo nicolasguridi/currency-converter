@@ -1,0 +1,6 @@
+.git
+.gitignore
+.ruby-lsp
+*.md
+.env
+*.log
